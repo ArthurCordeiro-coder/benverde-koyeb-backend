@@ -553,6 +553,11 @@ def preflight_handler(full_path: str) -> Response:
     return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
+@app.get("/health", include_in_schema=False)
+def healthcheck():
+    return {"status": "ok"}
+
+
 @app.get("/api/estoque/saldo")
 def get_estoque_saldo(current_user: dict = Depends(get_current_user)):
     pasta_entradas = Path(__file__).resolve().parent / "dados" / "entradas_bananas"

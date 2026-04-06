@@ -48,10 +48,13 @@ def _get_config() -> dict:
 
 @contextmanager
 def get_connection():
+    database_url = (os.environ.get("DATABASE_URL") or "").strip()
     cfg = _get_config()
-    if not cfg:
-        raise RuntimeError("Banco de dados não configurado (falta PGHOST/PGUSER/PGPASSWORD/PGDATABASE)")
-    conn = psycopg.connect(**cfg)
+    if not database_url and not cfg:
+        raise RuntimeError(
+            "Banco de dados nao configurado (falta DATABASE_URL ou PGHOST/PGUSER/PGPASSWORD/PGDATABASE)"
+        )
+    conn = psycopg.connect(database_url) if database_url else psycopg.connect(**cfg)
     try:
         yield conn
         conn.commit()

@@ -4,3 +4,7 @@ __pycache__/
 Thumbs.db
 desktop.ini
 node_modules/
+temp_import_jobs/
+temp_uploads/
+.env
+.venv/
