@@ -1,0 +1,920 @@
+[
+  {
+    "data": "2026-03-06T14:20:55.553535",
+    "tipo": "entrada",
+    "produto": "BANANA NANICA",
+    "quant": 11100.0,
+    "unidade": "KG",
+    "loja": "Outra",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:20:55.553535",
+    "tipo": "entrada",
+    "produto": "BANANA PRATA",
+    "quant": 1500.0,
+    "unidade": "KG",
+    "loja": "Outra",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 10",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 320.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 480.0,
+    "unidade": "KG",
+    "loja": "Loja 12",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 560.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 640.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 320.0,
+    "unidade": "KG",
+    "loja": "Loja 18",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Loja 19",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 160.0,
+    "unidade": "KG",
+    "loja": "Loja 20",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 25",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 10",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 12",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 64.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 64.0,
+    "unidade": "KG",
+    "loja": "Loja 18",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 19",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 20",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 48.0,
+    "unidade": "KG",
+    "loja": "Loja 25",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 128.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 10",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 18",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:26:16.264712",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 32.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:44.259905",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:44.259905",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:44.259905",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:44.259905",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:50.500855",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:50.500855",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:50.500855",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T14:30:50.500855",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA MAÇÃ",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 10",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 320.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 480.0,
+    "unidade": "KG",
+    "loja": "Loja 12",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 560.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 640.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 320.0,
+    "unidade": "KG",
+    "loja": "Loja 18",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Loja 19",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 160.0,
+    "unidade": "KG",
+    "loja": "Loja 20",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 25",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA NANICA",
+    "quant": 400.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 10",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 12",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 96.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 64.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 64.0,
+    "unidade": "KG",
+    "loja": "Loja 18",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 19",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 20",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 48.0,
+    "unidade": "KG",
+    "loja": "Loja 25",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 128.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 80.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA PRATA",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 10",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 11",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 13",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 14",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 16",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 18",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 22",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 32.0,
+    "unidade": "KG",
+    "loja": "Loja 26",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 30",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:16:52.600705",
+    "tipo": "saida",
+    "produto": "BANANA DA TERRA",
+    "quant": 16.0,
+    "unidade": "KG",
+    "loja": "Loja 36",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:21:32.230561",
+    "tipo": "entrada",
+    "produto": "BANANA DA TERRA",
+    "quant": 195.0,
+    "unidade": "KG",
+    "loja": "Outra",
+    "arquivo": "manual"
+  },
+  {
+    "data": "2026-03-06T15:21:32.230561",
+    "tipo": "entrada",
+    "produto": "BANANA MAÇÃ",
+    "quant": 240.0,
+    "unidade": "KG",
+    "loja": "Outra",
+    "arquivo": "manual"
+  }
+]

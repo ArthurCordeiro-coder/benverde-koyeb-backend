@@ -1,0 +1,254 @@
+[
+  {
+    "Produto": "ABACATE",
+    "Meta": 44000
+  },
+  {
+    "Produto": "ABÓBORA ITALIANA",
+    "Meta": 27000
+  },
+  {
+    "Produto": "ACELGA",
+    "Meta": 3000
+  },
+  {
+    "Produto": "AGRIÃO HIDROPÔNICO",
+    "Meta": 3500
+  },
+  {
+    "Produto": "ALFACE AMERICANA",
+    "Meta": 7000
+  },
+  {
+    "Produto": "ALFACE CRESPA HIDROPÔNICA ROXA",
+    "Meta": 2000
+  },
+  {
+    "Produto": "ALFACE CRESPA HIDROPÔNICA",
+    "Meta": 13000
+  },
+  {
+    "Produto": "ALFACE CRESPA",
+    "Meta": 44000
+  },
+  {
+    "Produto": "ALFACE LISA HIDROPÔNICA",
+    "Meta": 2500
+  },
+  {
+    "Produto": "ALFACE MIMOSA HIDROPÔNICA",
+    "Meta": 2500
+  },
+  {
+    "Produto": "BATATA BOLINHA",
+    "Meta": 2500
+  },
+  {
+    "Produto": "BATATA DOCE BRANCA",
+    "Meta": 2500
+  },
+  {
+    "Produto": "BATATA DOCE ROSADA",
+    "Meta": 48000
+  },
+  {
+    "Produto": "BATATA LAVADA",
+    "Meta": 240000
+  },
+  {
+    "Produto": "BERINJELA",
+    "Meta": 11000
+  },
+  {
+    "Produto": "BETERRABA",
+    "Meta": 32000
+  },
+  {
+    "Produto": "BRÓCOLIS NINJA",
+    "Meta": 21000
+  },
+  {
+    "Produto": "CEBOLA",
+    "Meta": 121000
+  },
+  {
+    "Produto": "CEBOLA ROXA",
+    "Meta": 4000
+  },
+  {
+    "Produto": "CEBOLINHA",
+    "Meta": 8000
+  },
+  {
+    "Produto": "CENOURA",
+    "Meta": 49000
+  },
+  {
+    "Produto": "CHUCHU",
+    "Meta": 16000
+  },
+  {
+    "Produto": "COENTRO COM CEBOLINHA",
+    "Meta": 26000
+  },
+  {
+    "Produto": "COENTRO PURO",
+    "Meta": 6000
+  },
+  {
+    "Produto": "COUVE-FLOR",
+    "Meta": 4500
+  },
+  {
+    "Produto": "COUVE MANTEIGA",
+    "Meta": 19000
+  },
+  {
+    "Produto": "ESCAROLA",
+    "Meta": 1500
+  },
+  {
+    "Produto": "GOIABA VERMELHA",
+    "Meta": 42000
+  },
+  {
+    "Produto": "HORTELÃ",
+    "Meta": 2100
+  },
+  {
+    "Produto": "INHAME",
+    "Meta": 3000
+  },
+  {
+    "Produto": "KIWI",
+    "Meta": 3000
+  },
+  {
+    "Produto": "LARANJA PERA",
+    "Meta": 150000
+  },
+  {
+    "Produto": "LIMÃO",
+    "Meta": 109000
+  },
+  {
+    "Produto": "MAÇÃ ARGENTINA",
+    "Meta": 2000
+  },
+  {
+    "Produto": "MAÇÃ FUJI",
+    "Meta": 3000
+  },
+  {
+    "Produto": "MAÇÃ GALA NACIONAL",
+    "Meta": 65000
+  },
+  {
+    "Produto": "MAÇÃ GRANNY SMITH",
+    "Meta": 1000
+  },
+  {
+    "Produto": "MAMÃO FORMOSA",
+    "Meta": 14000
+  },
+  {
+    "Produto": "MAMÃO PAPAYA",
+    "Meta": 46000
+  },
+  {
+    "Produto": "MANDIOCA",
+    "Meta": 19000
+  },
+  {
+    "Produto": "MANGA PALMER",
+    "Meta": 170000
+  },
+  {
+    "Produto": "MELANCIA BABY",
+    "Meta": 10000
+  },
+  {
+    "Produto": "MELÃO AMARELO",
+    "Meta": 58000
+  },
+  {
+    "Produto": "MILHO VERDE BANDEJA",
+    "Meta": 9000
+  },
+  {
+    "Produto": "MIX ALFACE ROXA/AGRIÃO/CRESPA HIDROPÔNICO",
+    "Meta": 1500
+  },
+  {
+    "Produto": "MIX ALFACE ROXA/LISA/CRESPA HIDROPÔNICO",
+    "Meta": 1500
+  },
+  {
+    "Produto": "MIX RÚCULA/AGRIÃO/CRESPA HIDROPÔNICO",
+    "Meta": 1600
+  },
+  {
+    "Produto": "MORANGO",
+    "Meta": 18000
+  },
+  {
+    "Produto": "PEPINO COMUM",
+    "Meta": 13000
+  },
+  {
+    "Produto": "PEPINO JAPONÊS",
+    "Meta": 7000
+  },
+  {
+    "Produto": "PERA WILLIAMS",
+    "Meta": 38000
+  },
+  {
+    "Produto": "PIMENTÃO AMARELO",
+    "Meta": 1500
+  },
+  {
+    "Produto": "PIMENTÃO VERDE",
+    "Meta": 8500
+  },
+  {
+    "Produto": "PIMENTÃO VERMELHO",
+    "Meta": 2000
+  },
+  {
+    "Produto": "REPOLHO ROXO",
+    "Meta": 1200
+  },
+  {
+    "Produto": "REPOLHO VERDE",
+    "Meta": 23000
+  },
+  {
+    "Produto": "REPOLHO VERDE HIGIENIZADO FATIADO",
+    "Meta": 1200
+  },
+  {
+    "Produto": "RÚCULA HIDROPÔNICA",
+    "Meta": 3500
+  },
+  {
+    "Produto": "SALSA E CEBOLINHA",
+    "Meta": 19000
+  },
+  {
+    "Produto": "TOMATE SWEET GRAPE",
+    "Meta": 8000
+  },
+  {
+    "Produto": "TOMATE ITALIANO",
+    "Meta": 5000
+  },
+  {
+    "Produto": "TOMATE",
+    "Meta": 57000
+  },
+  {
+    "Produto": "UVA VITÓRIA",
+    "Meta": 37000
+  }
+]
